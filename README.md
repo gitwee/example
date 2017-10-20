@@ -1,2 +1,2 @@
-# example-nio
-Learn java example:example-nio
+# example
+Learn java examples
